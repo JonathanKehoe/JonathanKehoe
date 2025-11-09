@@ -2,7 +2,9 @@
 <a href="https://www.linkedin.com/in/jonathan-kehoe-632644174/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Highly motivated professional with over 15 years of experience as an educator.  Skilled in communication, analytical thinking, team management, regulatory compliance, and crisis response. 
+
 Passionate about research, with an ability to quickly master security technologies and adapt to rapidly evolving threats and regulations.  
+
 Completed rigorous, hands on, study in cybersecurity fundamentals.
 
 ## Objective
