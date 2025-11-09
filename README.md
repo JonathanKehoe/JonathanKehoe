@@ -17,7 +17,7 @@ Seeking a SOC Analyst role to apply these skills and contribute to proactive cyb
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and log analysis | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and log analysis | <a href="https://github.com/JonathanKehoe/Detection-Lab">Detection Lab</a>|
 | NIST, CIA triad, incident response playbooks & security audits | <a>Detection Lab</a>|
 | Kali Linux, Windows, PowerShell & Bash scripting fundamentals | <a>Detection Lab</a>|
 | Experience with SIEM tools, ID/IPS, and network scanning   | <a>Detection Lab</a>|
