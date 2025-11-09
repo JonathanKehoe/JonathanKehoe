@@ -33,17 +33,32 @@ Seeking a SOC Analyst role to apply these skills and contribute to proactive cyb
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
  </div>
 
-### Endpoint
+## Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-SentinelOne-800080?style=for-the-badge&logo=SentinelOne&logoColor=white" /> 
 </div>
 
-### SIEM
+## SIEM
 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Scripting Languages
+
+<div>
+    <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+    <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
+
 </div>
 
 ## Certifications
